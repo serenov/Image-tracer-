@@ -15,4 +15,4 @@ similarlly 4 5 6 go -1 0 1 in x direction
 ### control for logs:
 "d" for poping the present coordinates from the log.<br/>
 spacebar for emptying the log.<br/>
-press any key for displaying object array.<br/>
+press any key for displaying logs object array.<br/>
