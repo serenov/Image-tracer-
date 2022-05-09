@@ -3,7 +3,7 @@ A simple game for tracing coordinates of a shape in an image defining a path for
 Implemented using pygame library.
 
 ## ABOUT THE GAME
-It contains the magnified frame of the image with 9 by 9 pixels, the image pixels with solid fill i.e, alpha 255, given black color rest given white.
+It contains a magnified frame of the image with 9 by 9 pixels, the image pixels with solid fill i.e, alpha 255, given black color rest given white.
 Using control keys one could traverse a certain shape in that image, which is useful for defining path that fourier epicycles.
 
 ## CONTROLS
