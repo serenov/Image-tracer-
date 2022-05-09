@@ -13,6 +13,6 @@ similarlly 4 5 6 go -1 0 1 in x direction
 1 2 3 going one step forward in y and -1 0 1 in x
 
 control for logs:
-"d" for poping the present coordinates from the log.
-spacebar for emptying the log.
-press any key for displaying object array.
+"d" for poping the present coordinates from the log.\\
+spacebar for emptying the log.\\
+press any key for displaying object array.\\
