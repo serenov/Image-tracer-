@@ -1,6 +1,6 @@
 # Image-tracer
-A simple game for tracing coordinates of a shape in an image by manual traversal, the game logs the traversed coordinates into the python dictionary. the coordinates logged are used to define a discrete Fourier series associated with the coordinates<br />
-Implemented using pygame library.
+A simple game for tracing coordinates of a shape in an image by manual traversal, the game logs the traversed coordinates into the python dictionary. The coordinates logged are used to define a discrete Fourier series associated with the coordinates.<br />
+the game is implemented using pygame library.
 
 ## ABOUT THE GAME
 It contains a 9 by 9 pixels magnified frame of the selected image, the pixels in the image with solid fill i.e, alpha 255, given black color and rest given white.
