@@ -1,5 +1,5 @@
 # Image-tracer
-A simple game for manually tracing the coordinates of a specific shape in an image, with a niche application such as Fourier analysis. It can be used to evaluate coefficients in Fourier series.<br/>
+A simple game for manually tracing the coordinates of a specific shape in an image, with a niche application such as Fourier analysis. It can be used to evaluate the coefficients in Fourier series.<br/>
 
 ## ABOUT THE GAME
 The game has a 9 x 9 magnified frame view of the image, the pixels in the image with solid fill (i.e, alpha 255) assigned black color and the rest assigned white.
