@@ -5,7 +5,7 @@ A simple game for manually tracing the coordinates of a specific shape in an ima
 The game has a 9 x 9 magnified frame view of the image, the pixels in the image with solid fill (i.e, alpha 255) assigned black color and the rest assigned white.
 
 ## CONTROLS
-Control keys are used to move the logger block, which logs the coordinates it is in after a key press.<br/><br/>
+Control keys move the logger block (it logs the coordinates it is in after a key press).<br/><br/>
 ### Vertical and Horizontal Navigation
 8 for up<br/>
 2 for down<br/>
