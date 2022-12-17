@@ -7,15 +7,15 @@ The game has a 9 x 9 magnified frame view of the image, the pixels in the image 
 ## CONTROLS
 Control keys are used to move the logger block, which logs the coordinates it is in after a key press.<br/><br/>
 ### Vertical and Horizontal Navigation
-8 for up
-2 for down
-4 for left
-6 for right
+8 for up<br/>
+2 for down<br/>
+4 for left<br/>
+6 for right<br/>
 ### Diagonal Navigation
-7 for up-left
-9 for up-right
-1 for down-left
-3 for down-right
+7 for up-left<br/>
+9 for up-right<br/>
+1 for down-left<br/>
+3 for down-right<br/>
 
 
 ### control for logs:
